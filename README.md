@@ -1,1 +1,3 @@
 # questao-final6
+
+Esse trabalho é um site simples, sobre os instrumentos: Violão e Cavaquinho, com algumas curiosidades sober os intrumentos abordados, vídeo ou áudio, mostrando o som e como o instrumento funciona. Esse programa é para aquela pessoa que quer descobrir um pouquinho mais sobre esses instrumentos. A instrument's house, ainda em desenvolvimemto, vêm para fazer com que o usuário crie uma curiosidade e queira saber mais sobre a música.
